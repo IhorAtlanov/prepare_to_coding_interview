@@ -1,2 +1,2 @@
-# prepare_to_coding_interview
+# Prepare to coding interview
 Solve a lot problem to improve knowledge and prepare to coding interview.
