@@ -1,6 +1,7 @@
 import numpy as np
-from LinearReg import LinearRegression_From_Scratch
 import matplotlib.pyplot as plt
+
+from LinearReg import LinearRegression_From_Scratch
 
 def main():
   # Generate some sample data
